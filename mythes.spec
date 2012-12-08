@@ -69,3 +69,29 @@ mkdir -p %{buildroot}/%{_datadir}/mythes
 
 
 
+
+
+%changelog
+* Sat Jan 07 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.2.2-1
++ Revision: 758611
+- imported package mythes
+
+
+* Sat Jan 07 2012 Matthew Dawkins <mdawkins@unity-linux.org> 1.2.2-1-unity2011
+- new version 1.2.2
+
+* Wed Mar 09 2011 mdawkins <mattydaw@gmail.com> 1.2.1-1-unity2011
+- import for Unity
+
+* Sun Jan 23 2011 dmorgan <dmorgan> 1.2.1-1.mga1
++ Revision: 35239
+- Add gettext-devel as buildrequires
+- Adapt to mageia
+- imported package mythes
+
+
+* Mon Jun 21 2010 Caolán McNamara <caolanm@redhat.com> - 1.2.1-1
+- latest version
+
+* Thu Mar 11 2010 Caolán McNamara <caolanm@redhat.com> - 1.2.0-1
+- initial version
