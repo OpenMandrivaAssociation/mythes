@@ -6,7 +6,7 @@
 Summary:	A thesaurus library
 Name:		mythes
 Version:	1.2.2
-Release:	7
+Release:	8
 Group:		System/Libraries
 License:	BSD
 Url:		http://hunspell.sourceforge.net/
