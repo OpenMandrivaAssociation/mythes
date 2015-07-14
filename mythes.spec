@@ -5,8 +5,8 @@
 
 Summary:	A thesaurus library
 Name:		mythes
-Version:	1.2.2
-Release:	8
+Version:	1.2.4
+Release:	1
 Group:		System/Libraries
 License:	BSD
 Url:		http://hunspell.sourceforge.net/
@@ -40,8 +40,7 @@ Includes and definitions for developing with mythes
 %setup -q
 
 %build
-%configure2_5x \
-	--disable-static
+%configure
 
 %make
 
