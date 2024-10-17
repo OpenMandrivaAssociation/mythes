@@ -9,7 +9,7 @@ Version:	1.2.4
 Release:	8
 Group:		System/Libraries
 License:	BSD
-Url:		http://hunspell.sourceforge.net/
+Url:		https://hunspell.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/hunspell/%{name}-%{version}.tar.gz
 
 BuildRequires:	gettext-devel
